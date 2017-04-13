@@ -21,7 +21,7 @@ Currently my focus is on a Cisco ACI (Application Centric Infrastructure) enviro
 
 ## Current status
 Under development.
-Commits are not guaranteed to be frequent.
+Commits might be sporadic.
 
 ## Feedback
 Questions and suggestions are highly welcome. Just drop me an E-Mail.
