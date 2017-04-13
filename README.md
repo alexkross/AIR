@@ -15,6 +15,10 @@ We do simplest thing we can - generate the best knowlege of possible from ingres
 Output (egress) knowledge stream is as compact as thoroughly processed according to the platform capabilities (RAM size, processing power, etc). In other words, you can see this as a lossy data compression black-box allowing interactive pattern composition or customization.
 Tasks for data (input and/or output) storage, aggregation, grouping, etc are beyond the scope of this project.
 
+## Application
+Anywhere.
+Currently my focus is on a Cisco ACI environment.
+
 ## Current status
 Under development.
 Commits are not guaranteed to be frequent.
