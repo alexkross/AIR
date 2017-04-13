@@ -17,7 +17,7 @@ Tasks for data (input and/or output) storage, aggregation, grouping, etc are bey
 
 ## Application
 Anywhere.
-Currently my focus is on a Cisco ACI (Application Centric Infrastructure) environment, aka APIC or Cisco SDN.
+Currently my focus is on a Cisco ACI (Application Centric Infrastructure, aka APIC or Cisco SDN) deployment for FinTech.
 
 ## Current status
 Under development.
