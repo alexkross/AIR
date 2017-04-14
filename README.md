@@ -20,7 +20,7 @@ Tasks for data (input and/or output) storage, aggregation, grouping, etc are bey
 
 Currently my focus is on a Cisco ACI (Application Centric Infrastructure, aka APIC or Cisco SDN) deployment for FinTech.
 
-Assumed ingress steams on source from 3-rd on are (in order of importance):
+Assumed ingress steams from 3-rd source on are (in order of importance):
 - Audit;
 - Faults;
 - Events;
