@@ -35,6 +35,10 @@ Note:
 
 Although one solid powerful engine is expected to perform better than a bunch of aggregated smaller ones it is possible to treat an egress flow as an ingress one and feed it to the higher engine in N-to-1 directed graph topology provided that the metadata (almost static) is properly replicated.
 
+On the other hand by cascading the engines in such a way the more conscious reasoning may be achieved on the top node with less demands on resources.
+
+Outlined here topology is not the only possible, moreover the Egress stream may be as simple as serial bitwise flow or rather complicated for the case when interactiveness are reqiured (e.g. the subject is a human).
+
 ## Current status
 
 Under development.
