@@ -26,7 +26,7 @@ Assumed ingress steams on source from 3-rd on are (in order of importance):
 - NetFlow (huge, optional).
 
 Note:
-  Fabric configuration and sufficient subset of MIT (as well as user-provided corrections) are consumed by the engine from the stream 1 at the boot phase (see the diagram).
+  Fabric configuration and sufficient subset of MIT (as well as user-provided corrections) are consumed by the engine from the streams 1-2 at the boot phase (see the diagram).
 
 ## Current status
 Under development.
