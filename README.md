@@ -37,7 +37,7 @@ Although one solid powerful engine is expected to perform better than a bunch of
 
 On the other hand by cascading the engines in such a way the more conscious reasoning may be achieved on the top node with less demands on resources.
 
-Outlined here topology is not the only possible, moreover the Egress stream may be as simple as serial bitwise flow or rather complicated for the case when interactiveness are reqiured (e.g. the subject is a human).
+The outlined here topology is not the only possible, moreover the Egress stream may be as simple as serial bitwise flow or rather complicated for the case when interactiveness are reqiured (e.g. the subject is a human).
 
 ## Current status
 
@@ -48,4 +48,4 @@ Commits might be sporadic.
 
 Questions and suggestions are highly welcome. Just drop me an E-Mail.
 
-A contribution of any kind may support this development. I would greatly appreciate it.
+A contribution of any kind could support this development. I would greatly appreciate it.
