@@ -16,6 +16,7 @@ Tasks for data (input and/or output) storage, aggregation, grouping, etc are bey
 
 ## Application
 Currently my focus is on a Cisco ACI (Application Centric Infrastructure, aka APIC or Cisco SDN) deployment for FinTech.
+
 Assumed ingress steams on source from 3-rd on are (in order of importance):
 - Audit;
 - Faults;
@@ -23,6 +24,7 @@ Assumed ingress steams on source from 3-rd on are (in order of importance):
 - Subscribed MOs;
 - Atomic counters;
 - NetFlow (huge, optional).
+
 Note:
   Fabric configuration and sufficient subset of MIT (as well as user-provided corrections) are consumed by the engine from the stream 1 at the boot phase (see the diagram).
 
