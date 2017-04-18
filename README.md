@@ -14,7 +14,7 @@ ZMQ may be replaced with MQTT or RAET. Curl and Json can also be replaced with o
 Overview
 --------
 
-The Engine should do the smallest thing it aimed at - generate the best knowlege of possible from ingress event/data streams and try to produce predictive models.
+A core of the system, The Processor should do the smallest thing it aimed at - generate the best knowlege of possible from ingress event/data streams and try to produce predictive models.
 
 Output (egress) knowledge stream is as compact as thoroughly processed according to the platform capabilities (RAM size, processing power, etc). In other words, you can see this as a lossy data compression black-box that tries to guess future events, supporting interactive pattern composition or customization.
 
