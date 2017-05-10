@@ -35,6 +35,8 @@ Assumed ingress steams from 3-rd source on are (in order of importance):
 
 Note:
   Fabric configuration and sufficient subset of MIT is consumed by the engine at the boot phase on stream 1. User-provided corrections are fed on streams 1-2. See the diagram for the overal view.
+  
+Because the Processor can produce acceptable decisions under restricted environment and allowed time frame, the system is also targeted to HFT.
 
 Scalability
 -----------
